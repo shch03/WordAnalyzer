@@ -12,4 +12,5 @@ A Word Analyzer analyzes any word and determine number of consonants and vowels.
 9. Finally, the variable characters, consonants, vowels, values will be displayed on the screen
 
 //this code still has error, the loop only counts the first consonant letter so the result shown is not correct
-# - Chairiandita Sheilla, 1810502, Mobile App Development Section 1, IIUM
+
+- Chairiandita Sheilla, 1810502, Mobile App Development Section 1, IIUM
